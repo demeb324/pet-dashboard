@@ -12,8 +12,8 @@ function App() {
   const [error, setError] = useState(null);
 
   // PetFinder API credentials
-  const API_KEY = 'mUoWMdmCTfnUkxYgqG3QpBsplIgJAfd6s0MWuZZ08egUVIlT6I';
-  const API_SECRET = 'B00SPDUTOTFZEoBGrneyPfpMOHOQscB1HIdKxEo5';
+  const API_KEY = '';
+  const API_SECRET = '';
   let accessToken = '';
   let tokenExpiration = 0;
 
